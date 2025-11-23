@@ -5,3 +5,4 @@
 #Til slut bruger jeg en if/else. hvis gennemsnittet er mindre end eller lig med 5.6 kg, skriver programmet en besked om, at transportbåndet kan bære vægten, og hvis ikke det kan det, udskirver programmet at det ikke kan lade sig gøre.
 
 #Jeg har testet 1 scenarie som er ; 4 motorer og 20 kg → giver "Yes" (fordi 20 / 4 = 5 ≤ 5.6).
+
